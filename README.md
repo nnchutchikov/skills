@@ -18,5 +18,5 @@
 ## IDE
 - PhpStorm
 
-## programming principles
+## Programming principles
 - SOLID
