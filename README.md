@@ -27,6 +27,9 @@
 - dumpautoload
 - scripts
 
+### Static analysis
+- friendsofphp/php-cs-fixer
+
 ## HTML
 
 ## JS
