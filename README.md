@@ -21,3 +21,6 @@
 
 ## Programming principles
 - SOLID
+- KISS
+- DRY
+- YAGNI
