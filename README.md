@@ -5,12 +5,21 @@
 - plpgsql
 
 ## PHP
+
+### Versions
 - PHP 7.4
 - PHP 8.0
-- Laravel
-- PDO
+
+### Packages
 - doctrine/dbal package
 - doctrine/orm package
+
+### Frameworks
+- Laravel
+
+### Extensions
+- PDO
+
 
 ## JS
 - Vue.js
