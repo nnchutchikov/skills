@@ -14,6 +14,7 @@
 - doctrine/dbal
 - doctrine/orm
 - php-di/php-di
+- symfony/yaml
 
 ### Frameworks
 - Laravel
