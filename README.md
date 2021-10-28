@@ -21,6 +21,12 @@
 ### Extensions
 - PDO
 
+### Composer
+- install
+- update
+- dumpautoload
+- scripts
+
 
 ## JS
 - Bootstrap
