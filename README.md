@@ -14,6 +14,7 @@
 
 ## JS
 - Vue.js
+- Pug
 
 ## IDE
 - JetBrains PhpStorm
