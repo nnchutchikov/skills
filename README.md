@@ -24,3 +24,10 @@
 - KISS
 - DRY
 - YAGNI
+
+## GIT
+- commit
+- add
+- checkout
+- branch
+- merge
