@@ -29,13 +29,13 @@
 
 
 ## JS
-- Bootstrap
 - Element UI
 - Vue.js
 - Pug
 
 ## CSS
--- SASS
+- SASS
+- Bootstrap
 
 
 ## IDE
