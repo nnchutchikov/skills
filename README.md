@@ -4,7 +4,7 @@
 - PDO
 - doctrine/dbal package
 - doctrine/orm package
-- postgresql 12
+- postgresql
 - plpgsql
 
 ## PHP
