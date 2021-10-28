@@ -30,6 +30,10 @@
 ### Static analysis
 - friendsofphp/php-cs-fixer
 
+### Tests
+- phpunit
+- php-webdriver
+
 ## HTML
 
 ## JS
