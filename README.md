@@ -1,9 +1,6 @@
 # Skills
 
 ## DataBase
-- PDO
-- doctrine/dbal package
-- doctrine/orm package
 - postgresql
 - plpgsql
 
@@ -11,6 +8,9 @@
 - PHP 7.4
 - PHP 8.0
 - Laravel
+- PDO
+- doctrine/dbal package
+- doctrine/orm package
 
 ## JS
 - Vue.js
