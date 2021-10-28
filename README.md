@@ -13,6 +13,7 @@
 ### Packages
 - doctrine/dbal package
 - doctrine/orm package
+- php-di/php-di
 
 ### Frameworks
 - Laravel
