@@ -15,6 +15,7 @@
 - doctrine/orm
 - php-di/php-di
 - symfony/yaml
+- vlucas/phpdotenv
 
 ### Frameworks
 - Laravel
