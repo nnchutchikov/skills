@@ -11,8 +11,8 @@
 - PHP 8.0
 
 ### Packages
-- doctrine/dbal package
-- doctrine/orm package
+- doctrine/dbal
+- doctrine/orm
 - php-di/php-di
 
 ### Frameworks
