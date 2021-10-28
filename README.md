@@ -16,7 +16,8 @@
 - Vue.js
 
 ## IDE
-- PhpStorm
+- JetBrains PhpStorm
+- Visual Studio Code 
 
 ## Programming principles
 - SOLID
