@@ -9,6 +9,7 @@
 ### Versions
 - PHP 7.4
 - PHP 8.0
+- PHP 8.1
 
 ### Packages
 - doctrine/dbal
@@ -16,6 +17,8 @@
 - php-di/php-di
 - symfony/yaml
 - vlucas/phpdotenv
+- phpoffice/phpword
+- phpoffice/phpspreadsheet
 
 ### Frameworks
 - Laravel
